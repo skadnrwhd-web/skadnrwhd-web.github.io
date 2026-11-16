@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://skadnrwhd-web.github.io/arcade/sitemap.xml
